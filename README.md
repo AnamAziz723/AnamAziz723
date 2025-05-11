@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi I'm Anam Aziz
+I'm a dual-degree student currently pursuing:
+**BS in Computer Science** from Riphah International University.
+**BS Accounting & Finance** from Virtual University of Pakistan. 
 
-<!--
-**AnamAziz723/AnamAziz723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me: 
+I'm passionate about blending technology and finance to solve real-world problems. Whether it's coding, analyzing data, or designing creative solutions, 
+I'm always eager to learn and grow. 
 
-Here are some ideas to get you started:
+## Skills so Far:
+**Programming**: C++ (beginner), SQL (basics) 
+**Tools**: MS Word, Excel, Powerpoint, Canva, Figma
+**Design**: Poster & logo design , UI mockups 
+**Soft Skills**: Presentation making, research writing, multitasking 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on: 
+- Learning web development & databases
+- Building mini projects o strengthen my portfolio
+- Exploring how Tech + Finance can uncover future opportunities for me.
+
+## Let's connect: 
+Feel free to explore my repositories, and stay tuned as I continue to update my journey here. 
+
+## Contact me: 
+Email: anamaziz.0237@gmail.com
+LinkedIn and Portfolio: Coming soon, I'm currently working on them. Stay tuned! 
